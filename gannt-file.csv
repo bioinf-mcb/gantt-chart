@@ -1,8 +1,8 @@
-Task,Start,Finish,Type
-Data collection,01/01/2021,01/03/2021,A
-Data preprocessing,01/03/2021,01/05/2021,A
-Data analysis,01/05/2021,01/09/2021,B
-Machine Learning Voodoo,01/07/2021,01/08/2021,B
-Manuscript preparation,01/09/2021,01/02/2022,C
-Drinking coffee,01/01/2021,01/02/2022,D
-Machine Learning Voodoo,01/09/2021,01/10/2021,B
+Task,Start,Finish,Color
+Data collection,01/01/2021,01/03/2021,darkgreen
+Data preprocessing,01/03/2021,01/05/2021,darkgreen
+Data analysis,01/05/2021,01/09/2021,navy
+Machine Learning Voodoo,01/07/2021,01/08/2021,navy
+Manuscript preparation,01/09/2021,01/02/2022,purple
+Drinking coffee,01/01/2021,01/02/2022,peru
+Machine Learning Voodoo,01/09/2021,01/10/2021,navy
