@@ -1,5 +1,5 @@
-# gannt-chart
-Python code for easy Gannt chart generation  
+# gantt-chart
+Python code for easy Gantt chart generation  
 
 ![gantt](https://github.com/bioinf-mcb/gannt-chart/blob/main/gannt-chart.png)  
 
